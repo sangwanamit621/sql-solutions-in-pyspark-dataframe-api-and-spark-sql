@@ -16,3 +16,17 @@ This repository contains my solutions to various SQL problems from LeetCode, imp
 
 All solutions in this repository were developed and tested using Databricks Community Edition. If you're not already using Databricks, you can [sign up for a free account](https://docs.databricks.com/en/getting-started/community-edition.html) to practice and run these PySpark and Spark SQL solutions in a collaborative environment.
 
+## How to Use
+#### To run locally:
+  1. Clone the repository:
+     ```bash
+     git clone https://github.com/your-username/sql-leetcode-pyspark.git```
+  2. Install dependencies:
+     ```bash
+     pip3 install pyspark```
+  3. Open the Jupyter notebooks and run the codes to explore the solutions.
+     
+Feel free to explore more in the solution-notebooks directory!
+
+## Contributing
+Found a bug? Have a suggestion? Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
